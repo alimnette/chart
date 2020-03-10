@@ -3,12 +3,12 @@ entries:
   lol:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-03-10T16:14:21.4016898+01:00"
+    created: "2020-03-10T17:36:10.6287321+01:00"
     description: A Helm chart for Kubernetes
-    digest: 0bffa6c2f9418a84c5bea1787a7593351e878afc0c7f83b5d5f98c775d02045d
+    digest: 4e6737407a53b32724ee910e625df950cdf48b61f79ba02a80996a80dde461e3
     name: lol
     type: application
     urls:
     - lol-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-10T16:14:21.400688+01:00"
+generated: "2020-03-10T17:36:10.6282305+01:00"
